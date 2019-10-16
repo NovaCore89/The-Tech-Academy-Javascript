@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "file:///C:/Users/novac/Documents/GitHub/The Tech Academy JavaScript/The-Tech-Academy-Javascript/Pizza Project/Pizza.html",
+            "url": "http://localhost:3000/",
             "webRoot": "${workspaceFolder}"
         }
     ]
